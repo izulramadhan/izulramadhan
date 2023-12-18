@@ -46,7 +46,6 @@
 <a href="https://www.linkedin.com/in/azizul-ramadhan/"><img src="https://img.shields.io/badge/-Izul%20Ramadhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:izul.purnama@gmail.com"><img src="https://img.shields.io/badge/-izul.purnama@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/izul_ramadhan?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/-@izul__ramadhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>

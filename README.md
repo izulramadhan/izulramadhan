@@ -7,7 +7,6 @@
 🎓 &nbsp;I'm a graduate of Informatics Engineering from Dian Nuswantoro University.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;I currently work as a programmer at a software development company.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at izul.purnama@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Web Profile](http://haloizul.epizy.com/) for more details about me. I'm open to feedback and suggestions!
 

@@ -4,7 +4,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a graduate of Informatics Engineering from Dian Nuswantoro University.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;I currently work as a programmer at a software development company.\
 ✉️ &nbsp;You can shoot me an email at izul.purnama@gmail.com! I'll try to respond as soon as I can.\
